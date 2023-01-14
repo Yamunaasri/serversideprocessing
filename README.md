@@ -24,7 +24,7 @@ The Website is published. Provide user inputs. The server processes the inputs i
 
 
 ## PROGRAM :
-# PERIMETER.HTML
+### PERIMETER.HTML
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -114,11 +114,14 @@ body { background-color: #FFD4A2;}
 ```
 
 ## OUTPUT:
-# SERVER SIDE OUTPUT:
+### SERVER SIDE OUTPUT:
+![serveroutput](https://user-images.githubusercontent.com/118343379/212465273-51dcddbd-fcd5-4a5d-9c83-2835d5d325e9.png)
+
 
 
 ### Home Page:
-
+![out1](https://user-images.githubusercontent.com/118343379/212465255-7f57c191-a356-4e94-b33c-8dc46dc1667c.png)
+![out2](https://user-images.githubusercontent.com/118343379/212465265-0c8afbaf-f60c-47a7-ab02-df99c7e269b5.png)
 
 ## Result:
 Successfully designed a website to perform mathematical calculations in server side.

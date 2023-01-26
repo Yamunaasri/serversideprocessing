@@ -148,8 +148,9 @@ def perimeter(request):
 
 
 ### Home Page:
-![out1](https://user-images.githubusercontent.com/118343379/212465255-7f57c191-a356-4e94-b33c-8dc46dc1667c.png)
-![out2](https://user-images.githubusercontent.com/118343379/212465265-0c8afbaf-f60c-47a7-ab02-df99c7e269b5.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/115707860/214842783-4cc2e2d8-b472-4383-91ab-d6b40333bd17.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/115707860/214842808-f5613315-d312-4002-8952-0bb7bbcd8daf.png)
+
 
 ## Result:
 Successfully designed a website to perform mathematical calculations in server side.
